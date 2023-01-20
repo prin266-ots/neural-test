@@ -386,4 +386,8 @@ body {
     .form input {
         padding: 0;
     }
+
+    .gallery {
+        background-size: 150%;
+    }
 }
